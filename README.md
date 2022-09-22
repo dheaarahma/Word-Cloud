@@ -28,5 +28,7 @@ You might give a non-specialized crowd, for example, your local area directorate
 
 Refference:
 https://towardsdatascience.com/the-quick-and-easy-guide-to-create-wordclouds-in-python-7a81813e4cd5
+
 https://semeon.com/aiandbigdata/what-is-a-word-cloud-and-why-use-it/
+
 https://www.analyticsvidhya.com/blog/2021/08/creating-customized-word-cloud-in-python/#
